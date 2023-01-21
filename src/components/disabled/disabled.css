@@ -1,0 +1,10 @@
+.disable-btn {
+  border-radius: 5px;
+  border: none;
+  padding: 1% 3%;
+  font-size: 15px;
+  color: blanchedalmond;
+}
+.disable-btn:hover {
+  opacity: 0.6;
+}
